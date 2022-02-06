@@ -1,32 +1,34 @@
-<div>
+<div align=right>
 <h1> Hello Fellow < Developers/ >! </h1>
-<div size='20px'>Thank you for taking your time, <br>
-  to visit my code. 
+Thank you for taking your time, to visit my code. 
 </div>
 
-<h2> About Me</h2>
   
-- 🎓 I'm currently pursuing Electronics and Instrumentation Engineering, at NIT, Agartala.
-- 🌱 I’m currently learning Javascript
-- 👯 I’m looking to collaborate on a Web-Project
+<div align=left height="270px" width="350">  
+<h2> About Me</h2>
+
 - 😄 Pronouns: she/her 
+- 🌱 I’m currently learning DOM manipulation
+- 👯 I’m looking to collaborate on a Web-Project
+- 🎓 I'm currently pursuing Electronics and Instrumentation Engineering,
+  at NIT, Agartala.
+</div>
+
 <br>
-
-
+  
 <h2> GitHub Stats </h2>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eshibhatt&show_icons=true&locale=en&layout=compact" alt="eshibhatt" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eshibhatt&show_icons=true&locale=en&layout=compact&theme=aura_dark" alt="eshibhatt" /></p>
 <br>
 
 <h2> Connect with me </h2>
   
- - <a href="mailto:bhattacharyaeshita@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:bhattacharyaeshita@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/eshita-bhattacharjee-148110202/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://twitter.com/eshibhatt"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
-- <a href="https://www.linkedin.com/in/eshita-bhattacharjee-148110202/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<p align="center">
+  <img src="https://github.com/Ruchip16/Ruchip16/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
-- <a href="https://twitter.com/eshibhatt"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-
-  
   
 <!-- SOME EXTRAS
 **eshibhatt/eshibhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
