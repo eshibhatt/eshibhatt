@@ -12,6 +12,7 @@ Thank you for taking your time, to visit my code.
 - 👯 I’m looking to collaborate on a Web-Project
 - 🎓 I'm currently pursuing Electronics and Instrumentation Engineering,
   at NIT, Agartala.
+ [![@eshibhatt's Holopin board](https://holopin.me/eshibhatt)](https://holopin.io/@eshibhatt)
 </div>
 
 <br>
