@@ -32,11 +32,13 @@ Thank you for taking your time, to visit my code.
 
 <div align=left height="270px" width="350">  
  
- ![Eshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=eshibhatt&show_icons=true&theme=transparent) 
+<!--  ![Eshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=eshibhatt&show_icons=true&theme=transparent)  -->
  ![Eshita's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=eshibhatt&show_icons=true&locale=en&layout=compact&theme=aura_dark)
- ![Eshita's GitHub stats](https://github.com/Ruchip16/Ruchip16/blob/output/github-contribution-grid-snake.svg)
+<!--  ![Grid](https://github.com/Ruchip16/Ruchip16/blob/output/github-contribution-grid-snake.svg) -->
 </div>
-
+<p align="center">
+  <img src="https://github.com/Ruchip16/Ruchip16/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
   
 <!-- SOME EXTRAS
